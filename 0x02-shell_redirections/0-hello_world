@@ -1,2 +1,3 @@
 #!/bin/bash/
-echo /tmp/hello_world
+cat -e 
+Hello, World$
